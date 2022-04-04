@@ -2,7 +2,7 @@
 Portfolio using React JS
 
 ## About
-It is a personal `Portfolio` page [made with: *_React JS*, _SCSS_ & _HTML_] + Responsive layout.
+It is a personal «_Portfolio_» page [made with: `React JS`, `SCSS` & `HTML`] + Responsive layout.
 
 > version: Apr. 2022, created by Gleb 'Faitsuma' Kiryakov
 
