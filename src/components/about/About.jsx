@@ -3,7 +3,7 @@ import './about.scss'
 
 import ME from '../../assets/me-about.jpg'
 import {FaAward} from 'react-icons/fa'
-import {FiUsers} from 'react-icons/fi'
+import {BiArea} from 'react-icons/bi'
 import {VscFolderLibrary} from 'react-icons/vsc'
 
 const About = () => {
@@ -25,27 +25,27 @@ const About = () => {
 
             <div className="about__cards">
               <article className="about__card">
-                <FaAward className='about__icon'/>
-                <h5>Experience</h5>
-                <small>3+ Years Working</small>
-              </article>
-
-              <article className="about__card">
-                <FiUsers className='about__icon'/>
-                <h5>Clients</h5>
-                <small>200+ Worldwide</small>
-              </article>
-
-              <article className="about__card">
                 <VscFolderLibrary className='about__icon'/>
                 <h5>Projects</h5>
-                <small>80+ Completed</small>
+                <small>15 + Completed</small>
+              </article>
+
+              <article className="about__card">
+                <BiArea className='about__icon'/>
+                <h5>Range</h5>
+                <small>7 + Programming Languages</small>
+              </article>
+
+              <article className="about__card">
+                <FaAward className='about__icon'/>
+                <h5>Experience</h5>
+                <small>2 + Years Learning</small>
               </article>
             </div>
 
             <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quos fugiat ipsam molestiae officiis soluta quibusdam perspiciatis atque. Porro minus inventore neque aliquid officia ea voluptatum possimus, aspernatur illo, enim ut.
-              Quo, incidunt? Rem repellendus facere perspiciatis cupiditate necessitatibus commodi iure quia hic error minima deleniti, pariatur cumque vero officiis temporibus recusandae quidem placeat totam repellat ea. Ad in similique eveniet.
+            Purposeful, hardworking, honest, responsible, as well as a positive person, always completing the job right into the end. 
+            Lead a healthy lifestyle. Also have a driving license.
             </p>
 
             <a href="#contact" className="btn btn-primary">Let's Talk</a>
