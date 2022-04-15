@@ -7,7 +7,7 @@ It is a personal «_Portfolio_» page.\
 
 > version: Apr. 2022, created by Gleb 'Faitsuma' Kiryakov
 
-__GitHub Pages:__ https://faitsumaru.github.io/PortfolioSite/index.html
+__GitHub Pages:__ https://faitsumaru.github.io/PortfolioSite/
 
 ## Commands
 1. Create empty `React` project:
