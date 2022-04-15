@@ -5,51 +5,51 @@ import IMG1 from '../../assets/portfolio1.jpg'
 import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.png'
+import IMG5 from '../../assets/portfolio5.jpg'
 import IMG6 from '../../assets/portfolio6.jpg'
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Crypto Currency Dashboard & Financial Visualization',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/tags/crypto_dashboard'
+    title: 'Generative Artificial Intelligence Technology',
+    github: 'https://github.com/Faitsumaru/generativeai',
+    demo: 'https://faitsumaru.github.io/generativeai/generativeai.html'
   },
   {
     id: 2,
     image: IMG2,
-    title: 'Charts templates & infographics in Figma',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/17774116-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    title: 'Desire Furniture Site on GULP',
+    github: 'https://github.com/Faitsumaru/FurnitureSite-Layout',
+    demo: 'https://faitsumaru.github.io/FurnitureSite-Layout/app/index.html'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Figma dashboard UI kit for data design web apps',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/17610616-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps'
+    title: 'Mercedes-Benz VISION AVTR Site',
+    github: 'https://github.com/Faitsumaru/MercedesAvatarSite-Layout',
+    demo: 'https://faitsumaru.github.io/MercedesAvatarSite-Layout/'
   },
   {
     id: 4,
     image: IMG4,
-    title: 'Maintaining tasks and tracking progress',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16955822-Maintaining-tasks-and-tracking-progress'
+    title: 'Auto Express Site on WordPress',
+    github: 'https://github.com/Faitsumaru/AutoExpressSite_wp',
+    demo: 'https://faitsumaru.github.io/AutoExpressSite-Layout/'
   },
   {
     id: 5,
     image: IMG5,
-    title: 'Charts templates & infographics in Figma',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/17774116-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    title: 'Space Tourism Site',
+    github: 'https://github.com/Faitsumaru/SpaceTourismSite-Layout',
+    demo: 'https://faitsumaru.github.io/SpaceTourismSite-Layout/'
   },
   {
     id: 6,
     image: IMG6,
-    title: 'Crypto Currency Dashboard & Financial Visualization',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/tags/crypto_dashboard'
+    title: 'Seafood From Norway Site',
+    github: 'https://github.com/Faitsumaru/SeafoodSite-Layout',
+    demo: 'https://faitsumaru.github.io/SeafoodSite-Layout/'
   }
 ]
 
