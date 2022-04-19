@@ -22,22 +22,22 @@ const data = [
   {
     avatar: AVTR1,
     name: 'Tina Show',
-    review: 'Modi alias animi dolorem aliquam ea eum maiores, consectetur praesentium quibusdam, commodi velit porro blanditiis consequatur qui molestiae. Dolorem, perspiciatis aspernatur labore distinctio ratione delectus voluptatem dolores deserunt explicabo nostrum ducimus quasi?'
+    review: 'Pretty nice works here, in your arsenal. Continue to try your best!'
   },
   {
     avatar: AVTR2,
     name: 'Shatta Wale',
-    review: 'Modi alias animi dolorem aliquam ea eum maiores, consectetur praesentium quibusdam, commodi velit porro blanditiis consequatur qui molestiae. Dolorem, perspiciatis aspernatur labore distinctio ratione delectus voluptatem dolores deserunt explicabo nostrum ducimus quasi?'
+    review: 'Not bad, exactly. So, I have an idea! There is a guy needed for making some awesome site. It can be you, in other words.'
   },
   {
     avatar: AVTR3,
     name: 'Kwame Despite',
-    review: 'Modi alias animi dolorem aliquam ea eum maiores, consectetur praesentium quibusdam, commodi velit porro blanditiis consequatur qui molestiae. Dolorem, perspiciatis aspernatur labore distinctio ratione delectus voluptatem dolores deserunt explicabo nostrum ducimus quasi?'
+    review: 'Good job, my friend. Isn\'t that a progress you wanted so far? Will be bright future for you, if you are going to continue these things.'
   },
   {
     avatar: AVTR4,
     name: 'Nana Ama McBrown',
-    review: 'Modi alias animi dolorem aliquam ea eum maiores, consectetur praesentium quibusdam, commodi velit porro blanditiis consequatur qui molestiae. Dolorem, perspiciatis aspernatur labore distinctio ratione delectus voluptatem dolores deserunt explicabo nostrum ducimus quasi?'
+    review: 'Not bad, exectly, but there is a numerous number of information you must learn. Therefore, it is going to be a difficult path. Everything is in your own hands!'
   },
 ]
 
@@ -45,7 +45,7 @@ const Testimonials = () => {
   return (
     <section id='testimonials'>
 
-      <h5>Review from clients</h5>
+      <h5>Review from people</h5>
       <h2>Testimonials</h2>
 
       <Swiper className="container testimonials__container"
