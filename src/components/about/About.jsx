@@ -43,11 +43,21 @@ const About = () => {
               </article>
             </div>
 
-            <p>
-            Purposeful, hardworking, honest, responsible, as well as a positive person, always completing the job right into the end. 
-            Lead a healthy lifestyle. Also have a driving license.
-            </p>
-
+            <div className="about__text">
+              <p>
+                Purposeful, hardworking, honest, responsible, as well as a positive person, always completing the job right into the end.
+              </p>
+              <p>
+                I am ready to improve myself, develop and learn new information, develop relevant, promising, reliable and convenient services, as well as products for life.
+              </p>
+              <p>
+                <strong>«Live and learn!»</strong>
+              </p>
+              <p>
+                Lead a healthy lifestyle. Also have a driving license.
+              </p>
+            </div>
+            
             <a href="#contact" className="btn btn-primary">Let's Talk</a>
 
           </div>

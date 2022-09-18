@@ -80,4 +80,9 @@ textarea {
         width: var(--container-width-sm);
         gap: 1rem;
     }
+    form {
+        & > .btn-primary {
+            margin: 0 auto;
+        }
+    }
 }

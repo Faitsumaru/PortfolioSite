@@ -26,7 +26,7 @@ const experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill class='experience__details-icon'/>
               <div>
-                <h4>CSS/SCSS/SASS</h4>
+                <h4>CSS/SCSS/SASS/LESS</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
@@ -50,7 +50,7 @@ const experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill class='experience__details-icon'/>
               <div>
-                <h4>Bootstrap</h4>
+                <h4>React</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
@@ -66,8 +66,8 @@ const experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill class='experience__details-icon'/>
               <div>
-                <h4>React</h4>
-                <small className='text-light'>Basic</small>
+                <h4>Bootstrap</h4>
+                <small className='text-light'>Intermediate</small>
               </div>
             </article>
 
@@ -90,7 +90,7 @@ const experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill class='experience__details-icon'/>
               <div>
-                <h4>Webpack</h4>
+                <h4>npm</h4>
                 <small className='text-light'>Basic</small>
               </div>
             </article>
@@ -136,7 +136,23 @@ const experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill class='experience__details-icon'/>
               <div>
-                <h4>Node.js/Git</h4>
+                <h4>Git</h4>
+                <small className='text-light'>Basic</small>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill class='experience__details-icon'/>
+              <div>
+                <h4>Node.js</h4>
+                <small className='text-light'>Basic</small>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill class='experience__details-icon'/>
+              <div>
+                <h4>Java</h4>
                 <small className='text-light'>Basic</small>
               </div>
             </article>

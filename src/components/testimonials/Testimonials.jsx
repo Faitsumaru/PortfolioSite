@@ -21,22 +21,22 @@ import { Pagination } from "swiper";
 const data = [
   {
     avatar: AVTR1,
-    name: 'Tina Show',
+    name: 'Mark',
     review: 'Pretty nice works here, in your arsenal. Continue to try your best!'
   },
   {
     avatar: AVTR2,
-    name: 'Shatta Wale',
+    name: 'Alexander',
     review: 'Not bad, exactly. So, I have an idea! There is a guy needed for making some awesome site. It can be you, in other words.'
   },
   {
     avatar: AVTR3,
-    name: 'Kwame Despite',
+    name: 'Boris',
     review: 'Good job, my friend. Isn\'t that a progress you wanted so far? Will be bright future for you, if you are going to continue these things.'
   },
   {
     avatar: AVTR4,
-    name: 'Nana Ama McBrown',
+    name: 'Ivan',
     review: 'Not bad, exectly, but there is a numerous number of information you must learn. Therefore, it is going to be a difficult path. Everything is in your own hands!'
   },
 ]

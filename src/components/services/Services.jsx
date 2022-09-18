@@ -62,7 +62,7 @@ const Services = () => {
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Creating full responsive website layout/user interface by using standard HTML/CSS practices (including SCSS & SASS).</p>
+              <p>Creating full responsive website layout/user interface by using standard HTML/CSS practices (including SCSS, SASS & LESS).</p>
             </li>
 
             <li>
