@@ -21,6 +21,8 @@ __GitHub Pages:__ https://faitsumaru.github.io/PortfolioSite/
       > npm test
    * Build the app for production to the 'build' folder:
       > npm run build
+   * Deploy the React app to GitHub Pages (to gh-pages branch)
+      > npm run deploy
 
 3. The steps to add `Sass` to Create React App are:
    * Install node-sass:
