@@ -26,39 +26,39 @@ const About = () => {
             <div className="about__cards">
               <article className="about__card">
                 <VscFolderLibrary className='about__icon'/>
-                <h5>Projects</h5>
-                <small>15 + Completed</small>
+                <h5 className='lng-about__projects'>Projects</h5>
+                <small className='lng-about__completed'>15 + Completed</small>
               </article>
 
               <article className="about__card">
                 <BiArea className='about__icon'/>
-                <h5>Range</h5>
-                <small>7 + Programming Languages</small>
+                <h5 className='lng-about__range'>Range</h5>
+                <small className='lng-about__prog-languages'>7 + Programming Languages</small>
               </article>
 
               <article className="about__card">
                 <FaAward className='about__icon'/>
-                <h5>Experience</h5>
-                <small>2 + Years Learning</small>
+                <h5 className='lng-about__experience'>Experience</h5>
+                <small className='lng-about__years-learning'>2 + Years Learning</small>
               </article>
             </div>
 
             <div className="about__text">
-              <p>
+              <p className='lng-about__text-1'>
                 Purposeful, hardworking, honest, responsible, as well as a positive person, always completing the job right into the end.
               </p>
-              <p>
+              <p className='lng-about__text-2'>
                 I am ready to improve myself, develop and learn new information, develop relevant, promising, reliable and convenient services, as well as products for life.
               </p>
-              <p>
+              <p className='lng-about__text-3'>
                 <strong>«Live and learn!»</strong>
               </p>
-              <p>
+              <p className='lng-about__text-4'>
                 Lead a healthy lifestyle. Also have a driving license.
               </p>
             </div>
             
-            <a href="#contact" className="btn btn-primary">Let's Talk</a>
+            <a href="#contact" className="btn btn-primary lng-lets-talk">Let's Talk</a>
 
           </div>
       </div>
