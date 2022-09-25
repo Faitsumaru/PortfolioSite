@@ -208,6 +208,86 @@ const langArr = {
         "en": "Utilise a combination of traditional and technologic approaches to 2D/3D design.",
     },
     
+    //portfolio
+    "portfolio__recentwork" : {
+        "ru": "Мои недавние работы",
+        "en": "My Recent Work",
+    },
+    "portfolio__portfolio-list" : {
+        "ru": "Портфолио",
+        "en": "Portfolio",
+    },
+    "portfolio__demo" : {
+        "ru": "Просмотр",
+        "en": "Live Demo",
+    },
+
+    //testimonials
+    "testimonials__review" : {
+        "ru": "Отзывы людей",
+        "en": "Review from people",
+    },
+    "testimonials__testimonials-list" : {
+        "ru": "Отзывы",
+        "en": "Testimonials",
+    },
+
+    //contact
+    "contact__getintouch" : {
+        "ru": "Обратная связь",
+        "en": "Get In Touch",
+    },
+    "contact__contactme" : {
+        "ru": "Связаться со мной",
+        "en": "Contact Me",
+    },
+    "contact__sendmessage" : {
+        "ru": "Отправить сообщение",
+        "en": "Send a message",
+    },
+    "contact__send" : {
+        "ru": "Отправить сообщение",
+        "en": "Send message",
+    },
+
+    //footer
+    "footer__name" : {
+        "ru": "<strong>Глеб</strong>",
+        "en": "Gleb",
+    },
+    "footer__home" : {
+        "ru": "Домой",
+        "en": "Home",
+    },
+    "footer__about" : {
+        "ru": "Обо мне",
+        "en": "About",
+    },
+    "footer__experience" : {
+        "ru": "Опыт",
+        "en": "Experience",
+    },
+    "footer__services" : {
+        "ru": "Услуги",
+        "en": "Services",
+    },
+    "footer__portfolio" : {
+        "ru": "Портфолио",
+        "en": "Portfolio",
+    },
+    "footer__testimonials" : {
+        "ru": "Отзывы",
+        "en": "Testimonials",
+    },
+    "footer__contact" : {
+        "ru": "Контакты",
+        "en": "Contact",
+    },
+    "footer__copy" : {
+        "ru": "&copy; Кирьяков Глеб. Все права защищены.",
+        "en": "&copy; Kiryakov Gleb. All rights reserved.",
+    },
+
 }
 
 // let r = document.querySelector(".lng-about__2").innerHTML = "<strong>Oh My God! What's wrong?!</strong>";

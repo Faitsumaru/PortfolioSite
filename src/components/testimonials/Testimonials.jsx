@@ -41,12 +41,35 @@ const data = [
   },
 ]
 
+const dataRU = [
+  {
+    avatar: AVTR1,
+    name: 'Марк',
+    review: 'Довольно симпатичные работы в вашем арсенале. Продолжайте стараться изо всех сил!'
+  },
+  {
+    avatar: AVTR2,
+    name: 'Александр',
+    review: 'Не плохо, точно. Итак, у меня есть идея! Нужен парень для создания крутого сайта. Другими словами, это можете быть вы.'
+  },
+  {
+    avatar: AVTR3,
+    name: 'Борис',
+    review: 'Хорошая работа, мой друг. Разве это не прогресс, которого вы хотели до сих пор? Светлое будущее ждёт вас, если вы намереваетесь продолжить.'
+  },
+  {
+    avatar: AVTR4,
+    name: 'Иван',
+    review: 'Неплохо, точно, но есть не мало информации, которую вы должны изучить. Поэтому предстоит трудный путь. Все в ваших руках!'
+  },
+]
+
 const Testimonials = () => {
   return (
     <section id='testimonials'>
 
-      <h5>Review from people</h5>
-      <h2>Testimonials</h2>
+      <h5 className='lng-testimonials__review'>Review from people</h5>
+      <h2 className='lng-testimonials__testimonials-list'>Testimonials</h2>
 
       <Swiper className="container testimonials__container"
         pagination={{ dynamicBullets: true, clickable: true }}
