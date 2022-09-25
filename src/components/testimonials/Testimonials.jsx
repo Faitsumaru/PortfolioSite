@@ -18,7 +18,7 @@ import "swiper/css/pagination";
 import { Pagination } from "swiper";
 /*------====( )====------*/
 
-const data = [
+let data = [
   {
     avatar: AVTR1,
     name: 'Mark',
@@ -41,7 +41,7 @@ const data = [
   },
 ]
 
-const dataRU = [
+let dataRU = [
   {
     avatar: AVTR1,
     name: 'Марк',
@@ -63,6 +63,11 @@ const dataRU = [
     review: 'Неплохо, точно, но есть не мало информации, которую вы должны изучить. Поэтому предстоит трудный путь. Все в ваших руках!'
   },
 ]
+
+
+if (window.location.hash == '#ru') {
+  data = dataRU.map(x => x);
+}
 
 const Testimonials = () => {
   return (
