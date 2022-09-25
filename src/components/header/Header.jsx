@@ -10,7 +10,7 @@ const Header = () => {
       <div className="container header__container">
 
         <select className="change-lang">
-          <option value="ua" selected>EN</option>
+          <option value="en" selected>EN</option>
           <option value="ru">RU</option>
         </select>
 
